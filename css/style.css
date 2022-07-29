@@ -1,0 +1,21 @@
+body {
+    font-family: "Lato", sans-serif;
+    overflow: hidden;
+    background-color: aliceblue;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    padding-left: 50%;
+    padding-top: 20px;
+  }
+
+.dark-mode {
+    background-color: #282a36;
+    color: #f8f8f2;
+}
+
+.dark-mode a {
+    color: #f8f8f2;
+}
